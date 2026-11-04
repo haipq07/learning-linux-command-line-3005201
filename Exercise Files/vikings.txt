@@ -1,0 +1,7 @@
+Name	ID	Team
+Scott	314	Vikings
+Ananti  991     Orange
+Jian    3127    Vikings
+Miguel  671     Green
+Wes	1337	Orange
+Anne	556	Green
